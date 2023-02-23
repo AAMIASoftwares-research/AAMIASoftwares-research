@@ -1,4 +1,4 @@
-# Action plan
+# General Action Plan
 
 The action plan of the whole AAMIA Softwares research branch.
 
